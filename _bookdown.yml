@@ -1,0 +1,27 @@
+name: "Introduction to Repositories"  
+author: "Sarah Erickson"  
+output_dir: "docs"  
+output: 
+  bookdown::html_document2:
+    theme: cosmo
+    number_sections: false
+    toc: false
+navbar:  
+  title: "Data Repositories +" 
+  href: index.html
+  left:
+  - text: "Overview"
+    href: 05-overview.html
+  - text: "Lessons"
+    menu:
+      - text: "Data Life Cycle"
+        href: 04-cylce.html
+      - text: "Describing Data"
+        href: 02-meta.html
+      - text: "Storing Data"
+        href: 01-repo.html
+      - text: "Citing Data"
+        href: 03-cite.html
+  right:
+  - icon: "fa-home"
+    href: index.html
