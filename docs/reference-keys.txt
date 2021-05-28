@@ -1,0 +1,16 @@
+welcome
+head
+an-introduction-to-data-repositories-and-data-management
+brought-to-you-by-the-arctic-data-center.
+goals
+instructors-guide
+goals-1
+instructors-guide-1
+goals-2
+instructors-guide-2
+section
+goals-3
+instructors-guide-3
+the-lesson-materials-associated-with-this-are-not-specific-to-any-particular-course-and-therefore-can-be-used-in-a-variety-of-classrooms-such-as-environmental-science-data-science-ecology-or-marine-science-courses.-introducing-students-to-data-repositories-at-the-undergraduate-level-may-open-up-a-new-world-of-research-and-learning-opportunities-for-them-now-or-as-future-scientists.
+however-what-happens-in-the-arctic-doesnt-stay-in-the-arctic.
+the-national-wildlife-federation-put-together-this-activity-guide-if-youd-like-to-learn-more-about-the-arctic-and-climate-change.
