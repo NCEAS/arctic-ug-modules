@@ -15,7 +15,7 @@ navbar:
   - text: "Lessons"
     menu:
       - text: "Data Life Cycle"
-        href: 04-cylce.html
+        href: 04-cycle.html
       - text: "Describing Data"
         href: 02-meta.html
       - text: "Storing Data"
