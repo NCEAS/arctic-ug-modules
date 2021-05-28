@@ -1,5 +1,11 @@
-![](banner_repo.png)
+---
+title: "Introduction to Repositories"
+---
 
+# Introduction to Repositories
+
+![](images/banner_repo.png)
+# 
 --------------
 
 #### **Goals**: 
@@ -92,7 +98,7 @@ Now that we have established why using a repository is important, we want to the
 
 Open science is the movement to make scientific research and data accessible to all. In many ways, the reasons why we should store scientific data in a repository are the same reasons why we should embrace the culture of open science. 
 
-![](openscigraphic.jpg)
+![](images/openscigraphic.jpg)
 
 **Optional Additional Materials**
 

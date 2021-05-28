@@ -1,14 +1,17 @@
 ---
 title: "An Arctic Data Center Education Module: Data Repositories+"
 ---
-![](banner1.png)
+
+# 
+
+![](images/banner1.png)
 <div style="background: #ffffff; position: relative; height: 15px; right: 0px; left: 0px;"></div>
 
 The [Arctic Data Center](https://arcticdata.io/) is a place for researchers from around the world working in the Arctic to efficiently share, discover, access, and interpret complex data about the Arctic with less effort. Part of our mission is to provide hands on training at Arctic research conferences and in dedicated training sessions targeting Arctic researchers, especially early-career and under-represented populations. In 2020, we were able to support the development of undergraduate-level educational materials through our fellowship program. These materials are open source and available for reuse and/or modification either at the associated GitHub repository, the [Arctic Data Center Training page](http://training.arcticdata.io/), or the [DataOne Skillbuilding Hub](https://dataoneorg.github.io/Education/).
 
 <div style="background: #ffffff; position: relative; height: 15px; right: 0px; left: 0px;"></div>
 
-![](adcfacts.png)
+![](images/adcfacts.png)
 
 <div style="background: #ffffff; position: relative; height: 15px; right: 0px; left: 0px;"></div>
 
@@ -26,7 +29,7 @@ The Arctic is warming twice as fast as the global average. The cause of such rap
 
 <center>
 <div style="background: #ffffff; position: relative; height: 25px; right: 0px; left: 0px;"></div>
-![](arcticsad.png){width=70%}
+![](images/arcticsad.png){width=70%}
 <div style="background: #ffffff; position: relative; height: 25px; right: 0px; left: 0px;"></div>
 </center>
 
@@ -36,7 +39,7 @@ Studying and understanding the Arctic is essential txo saving it, and ultimately
 <div style="background: #ffffff; position: relative; height: 20px; right: 0px; left: 0px;"></div>
 
 <center>
-[![](clickstart.png){width=20%}](05-overview.html)
+[![](images/clickstart.png){width=20%}](05-overview.html)
 
 ###### The National Wildlife Federation put together this [Activity Guide](https://www.nwf.org/~/media/PDFs/Be%20Out%20There/Schoolyard%20Habitats/ArcticEnvironment.pdf) if you'd like to learn more about the Arctic and climate change.
 

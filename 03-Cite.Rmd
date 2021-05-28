@@ -2,7 +2,9 @@
 title: "Data Citation"
 ---
 
-![](bannercite.png)
+# Data Citation
+
+![](images/bannercite.png)
 
 --------------
 

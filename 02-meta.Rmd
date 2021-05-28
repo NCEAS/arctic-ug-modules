@@ -2,7 +2,9 @@
 title: "Metadata"
 ---
 
-![](bannermeta.png)
+# Metadata
+
+![](images/bannermeta.png)
 
 --------------
 

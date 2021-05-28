@@ -1,7 +1,9 @@
 ---
 title: "The Data Life Cycle"
 ---
-![](lifecyclebanner.png) 
+# The Data Life Cycle
+
+![](images/lifecyclebanner.png) 
 --------------
 
 #### **Goals**: 
@@ -22,7 +24,7 @@ The data life cycle below has eight components. Each step helps the researcher o
 <div style="background: #ffffff; position: relative; height: 50px; right: 0px; left: 0px;"></div>
 
 <center>
-![](datalifecycle.png){width="50%"}
+![](images/datalifecycle.png){width="50%"}
 </center>
 
 <div style="background: #ffffff; position: relative; height: 50px; right: 0px; left: 0px;"></div>

@@ -1,10 +1,9 @@
 ---
 title: "Module Overview"
-output: html_document2
-toc: false
 ---
+# Module Overview
 
-![](banner1.png)
+![](images/banner1.png)
 <div style="background: #ffffff; position: relative; height: 25px; right: 0px; left: 0px;"></div>
 
 #### The lesson materials associated with this are not specific to any particular course, and therefore can be used in a variety of classrooms such as environmental science, data science, ecology, or marine science courses. Introducing students to data repositories at the undergraduate level may open up a new world of research and learning opportunities for them now or as future scientists.
